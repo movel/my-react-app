@@ -1,7 +1,7 @@
 import React from 'react'
 import HomeIcon from 'react-icons/lib/fa/home'
 import { NavLink } from 'react-router-dom'
-import '../stylesheets/menus.scss'
+// import '../stylesheets/menus.scss'
 
 const selectedStyle = {
     backgroundColor: "white",
